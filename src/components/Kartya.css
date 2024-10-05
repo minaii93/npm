@@ -1,0 +1,10 @@
+.Kartya-kartya{
+    height: 10vh;
+    width: 100px;
+    border: 1px solid grey;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
